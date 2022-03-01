@@ -1,0 +1,32 @@
+{
+  "name": "newchat",
+  "version": "1.0.0",
+  "description": "newchat romaniachat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-oszkar/newchat.git"
+  },
+  "keywords": [
+    "chat",
+    "RomaniaChat",
+    "Code",
+    "website",
+    "template",
+    "node"
+  ],
+  "author": "KiwiChat app-oszkar",
+  "bugs": {
+    "url": "https://github.com/app-oszkar/newchat/issues"
+  },
+  "homepage": "https://github.com/app-oszkar/newchat#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
